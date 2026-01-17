@@ -51,4 +51,30 @@ The project covers multiple business scenarios including sales forecasting, cust
 
 
 
-## 📂 Project Structure
+## 📌 Why This Project Matters
+This project reflects how analytics is used in real organizations:
+- Translating data into **business insights**
+- Supporting **strategic and operational decisions**
+- Balancing **technical accuracy** with **interpretability**
+- Aligning analytics outcomes with **business value**
+
+It demonstrates readiness for roles such as:
+- Business Analyst  
+- Operations Analyst  
+- Data Analyst  
+- Business Intelligence Analyst  
+
+
+
+## 🚀 Future Enhancements
+- Integration with Power BI dashboards
+- Use of real-world datasets
+- Cost-benefit analysis of business decisions
+- Deployment-ready predictive models
+
+---
+
+## 👤 Author
+**Abirami Baskaran**  
+Business Analyst | Operations & Data Analytics | Business Informatics  
+
