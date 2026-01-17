@@ -1,0 +1,20 @@
+Visualisations
+
+### Linear Regression - Marketing vs Sales
+<img width="2611" height="1651" alt="linear_regression" src="https://github.com/user-attachments/assets/1a4a7bdf-6bb7-454d-93c3-501f3261a82f" />
+Analysis: Strong positive correlation (R² = 0.94) between marketing spend and sales revenue. Every $1,000 increase in marketing investment yields approximately $2,500 in sales, demonstrating clear ROI on marketing campaigns.
+
+
+### Logistic Regression - Customer Churn Prediction
+<img width="2013" height="1651" alt="logistic_regression" src="https://github.com/user-attachments/assets/51f0bf24-b380-41f6-b9b2-539030b2961f" />
+Analysis: Achieved 85% accuracy in predicting customer churn. The confusion matrix shows strong performance with low false positives, enabling targeted retention campaigns for at-risk customers and reducing acquisition costs.
+
+
+### Random Forest - Feature Importance
+<img width="2837" height="1651" alt="model_visualizations" src="https://github.com/user-attachments/assets/6487e59e-48aa-4833-a5c1-32ce1dcd32e7" />
+Analysis: Total charges emerged as the strongest predictor of customer churn (importance: 0.52), followed by monthly charges (0.28) and tenure (0.20). This insight guides strategic focus on pricing optimization and long-term customer value.
+
+
+### K-Means - Customer Segmentation
+<img width="2444" height="1882" alt="kmeans_clusters" src="https://github.com/user-attachments/assets/c891ac93-a02f-4b7d-bc52-f25fb535ef10" />
+Analysis: Identified 4 distinct customer segments based on income and spending behavior. Enables personalized marketing strategies: high-value customers, budget-conscious shoppers, potential upsell targets, and premium segment opportunities.
