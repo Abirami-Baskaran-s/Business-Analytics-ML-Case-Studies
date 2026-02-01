@@ -1,7 +1,5 @@
 # Business Analytics and Operations Intelligence
 
----
-
 This project was initially developed as an academic assignment and later enhanced into a full project by integrating data analytics, machine learning, and visualization techniques. The goal of the project is to demonstrate how analytical methods can be applied to real-world business and operational scenarios to support informed decision-making.
 
 The project focuses on translating data into meaningful insights rather than only building models, reflecting how analytics is used in real organizational environments.
