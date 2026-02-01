@@ -1,4 +1,4 @@
-### 1. Libraries and Setup
+1. Libraries and Setup
 
 ```python
 import pandas as pd
@@ -21,7 +21,7 @@ print("Libraries loaded successfully!")
 
 ```
 
-### 2. Linear Regression (Predicting Sales)
+2. Linear Regression (Predicting Sales)
 
 ```python
 print("=" * 60)
@@ -76,7 +76,7 @@ for i in range(5):
 
 ```
 
-### 3. Logistic Regression (Predicting Customer Churn)
+3. Logistic Regression (Predicting Customer Churn)
 
 ```python
 print("\n" + "=" * 60)
@@ -140,7 +140,7 @@ for i in range(10):
 
 ```
 
-### 4. Decision Tree & Random Forest (Employee Performance)
+4. Decision Tree & Random Forest (Employee Performance)
 
 ```python
 print("\n" + "=" * 60)
@@ -228,7 +228,7 @@ for i in range(5):
 
 ```
 
-### 5. Support Vector Machine (Product Quality)
+5. Support Vector Machine (Product Quality)
 
 ```python
 print("\n" + "=" * 60)
@@ -289,7 +289,7 @@ for i in range(8):
 
 ```
 
-### 6. K-Means Clustering (Customer Segmentation)
+6. K-Means Clustering (Customer Segmentation)
 
 ```python
 print("\n" + "=" * 60)
@@ -354,7 +354,7 @@ for cluster in range(3):
 
 ```
 
-### 7. Data Preprocessing & Visualizations
+7. Data Preprocessing & Visualizations
 
 ```python
 print("\n" + "=" * 60)
@@ -441,7 +441,7 @@ print(f"\nBusiness Recommendation:")
 print(f"Focus your analytics on: {', '.join(selected_features)}")
 print(f"These features have the strongest relationship with business success.")
 
-# Visualizations Section
+1.Visualizations Section
 sns.set_style("whitegrid")
 plt.rcParams['figure.figsize'] = (12, 6)
 plt.rcParams['font.size'] = 10
@@ -450,7 +450,7 @@ print("=" * 70)
 print("MACHINE LEARNING PROJECT - COMPLETE VISUALIZATIONS")
 print("=" * 70)
 
-# Linear Regression Plots
+2.Linear Regression Plots
 fig, axes = plt.subplots(1, 3, figsize=(18, 5))
 axes[0].scatter(X_train, y_train, alpha=0.6, color='steelblue', label='Training Data', s=50)
 axes[0].scatter(X_test, y_test, alpha=0.6, color='coral', label='Test Data', s=50)
